@@ -14,11 +14,4 @@ Project based on a third-person shooter videogame using Unreal Engine 4.23 for  
   <img src="https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/demo.gif" />
 </p>
 
-## Images
-
-![Image1](https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/Character%20Mesh.JPG)
-![Image2](https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/Add%20Socket%20Rifle.JPG)
-![Image3](https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/Character%20Animations.JPG)
-![Image4](https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/ZoomIN.JPG)
-
 
