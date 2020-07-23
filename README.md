@@ -10,8 +10,9 @@
 Project based on a third-person shooter videogame using Unreal Engine 4.23 for  the subject "Animación Digital" in the Computer Engineering Degree.
 
 ## Preview
-
-![Demo](https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/demo.gif)
+<p align="center">
+  <img src="https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/demo.gif" />
+</p>
 
 ## Images
 
