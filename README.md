@@ -11,6 +11,7 @@ Project based on a third-person shooter videogame using Unreal Engine 4.23 for  
 
 ## Demo Video Preview
 This is a first look at the demo of the final result of the project
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://streamable.com/6n7sdn)
+
+[![Watch the video](https://github.com/luisblazquezm/gii-4-sci-fi-unreal-engine-game/blob/master/img/demo.gif)](https://streamable.com/6n7sdn)
 
 
