@@ -9,8 +9,8 @@
 ## Description
 Project based on a third-person shooter videogame using Unreal Engine 4.23 for  the subject "Animación Digital" in the Computer Engineering Degree.
 
-## Preview
+## Demo Video Preview
 This is a first look at the demo of the final result of the project
-<div style="width:100%;height:0px;position:relative;padding-bottom:58.642%;"><iframe src="https://streamable.com/e/6n7sdn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://streamable.com/6n7sdn)
 
 
